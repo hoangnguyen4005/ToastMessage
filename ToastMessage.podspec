@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
   s.name             = 'ToastMessage'
   s.version          = '0.0.1'
   s.summary          = 'ToastMessage is design library pod'
-  s.description      = "ToastMessage is library, which support we show popup with message"
+  s.description      = "ToastMessage allows showing multiple popups sequentially by using a queue to implement"
   s.homepage         = 'https://github.com/nguyenhoangit57'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Hoang Nguyen' => 'hoangnguyen4005@gmail.com' }
