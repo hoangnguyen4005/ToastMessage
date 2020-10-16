@@ -1,5 +1,5 @@
 # ToastMessage
-  - ToastMessage support sequently display queue pop-up message.
+  - ToastMessage support sequently displaying pop-up message with multiple time.
   
 ![Simulator Screen Shot - iPhone 11 - 2020-10-14 at 22 31 40](https://user-images.githubusercontent.com/15699560/96003713-1c108180-0e6d-11eb-9226-57e81290dab4.png)
 ![Simulator Screen Shot - iPhone 11 - 2020-10-14 at 22 31 36](https://user-images.githubusercontent.com/15699560/96003720-1dda4500-0e6d-11eb-92f5-74c498970e5a.png)
